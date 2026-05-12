@@ -35,3 +35,9 @@ Application complète de gestion de candidats avec :
 **Avec Docker :**
 ```bash
 docker-compose up --build
+## Déploiement
+
+L'application est **100% fonctionnelle en local** avec Docker :
+
+```bash
+docker-compose up --build
